@@ -1,0 +1,2 @@
+# YJWCycleScrollView
+一款基于oc语言编写的轮播图广告，可以在cell中使用，需要把YJWCycleScrollView.m中的isAutoScroll设置为NO,isCycleSlide设置为NO
